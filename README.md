@@ -8,6 +8,6 @@ Adds a complete, minimal Student Information System (SIS):
 Repository layout:
 - diagrams/ERD.png            — Final ER diagram
 - sql/01_schema          — CREATE TABLE statements (relational schema)
-- sql/02_sample_data.sql      — Example INSERTs for testing
+- sql/02_sample_data     — Example INSERTs for testing
 - Project_Report.pdf   — Report with PostgreSQL queries and sample outputs
 - README.md                   — Project overview and quick start
